@@ -1,0 +1,24 @@
+.login-container{
+    text-align:center;
+    width: 200px;
+    margin: 2rem auto;
+    border-radius: 10px;
+}
+
+.login-mini{
+    box-shadow: 0 0 0.25rem gray;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 1rem;
+}
+img{
+    width: 200px;
+}
+
+.username-label {
+    margin-top: 0.25rem;
+    color: white;
+    background-color: black;
+    padding: 0.25rem;
+    border-radius: 5px;
+}
