@@ -6,7 +6,7 @@
   
 #field {
     border-radius: 5px;
-    background-image: url(./field.jpg);
+    background-image: url('/_multipages/field.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
